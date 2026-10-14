@@ -8,14 +8,9 @@ AI engineer in Temple, Texas. I build **AI agents with evaluations**, Python bac
 - **[OOHScout](https://github.com/Khaihuyennguyen/oohscout-ai)**: billboard-site screening for Texas highways with GeoAI: reference lines, mileposts, existing signs and a cited rule table, 120 tests.
 - **Job Hunt Agent** (public repo coming November 2026): finds jobs, fills application forms and stops before Submit, drafts emails but never sends them. My own typed implementation.
 
-## Practice in public
-
-- [neetcode-submissions](https://github.com/Khaihuyennguyen/neetcode-submissions): data-structures and algorithms problems, synced as I solve them
-- [python_game_mentor_space](https://khaihuyennguyen.github.io/python_game_mentor_space/): an interactive knowledge graph of Python OOP concepts
-
 ## Background
 
-Lynntech (computer vision, PyTorch, a $1.7M Army-funded project) → Callbox (PostgreSQL performance) → KhaiAgency (co-founder, AI automation for local businesses). B.S. Computer Science, Texas A&M University.
+Lynntech (computer vision with PyTorch on an Army-funded project of over $1M) → Callbox (PostgreSQL performance) → KhaiAgency (co-founder, AI automation for local businesses). B.S. Computer Science, Texas A&M University.
 
 **Python · FastAPI · PostgreSQL/PostGIS · LLM tool calling · evaluations · Docker · Google Cloud Run · GitHub Actions**
 
